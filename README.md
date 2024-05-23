@@ -1,4 +1,4 @@
-This is a small websit for shopping branded items named BrandQ using Python Django. In this project I mainly focused on Backend. Also in frontend i used CSS, Java Scrip, jQuery.
+This is a small websit for shopping branded items named BrandQ using Python Django. In this project I mainly focused on Backend. Also in frontend I used CSS, Java Scrip, jQuery.
 
 Signup and Login page
 ![SignUp and Login Page](https://github.com/afsal404/BrandQ_Website_for_shopping/assets/149654035/b02cc125-614b-4e71-9c55-5b15fba8498e)
